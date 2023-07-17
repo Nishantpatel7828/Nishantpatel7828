@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishantpatel7828
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c and a++
+- 🌱 I’m currently working on  c ,c++ and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
